@@ -1,6 +1,6 @@
 public class LeadersBrute {
     static void main() {
-        int[] arr = {16, 17, 4, 3, 5, 2};
+        int[] arr = {22,58,6,8,7,88};
 
         for (int i = 0; i < arr.length; i++) {
 
