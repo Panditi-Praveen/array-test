@@ -1,6 +1,6 @@
 public class MaxMin {
     static void main() {
-        int[] arr={10,45,3,99,22};
+        int[] arr={44,55,65,77,31};
 
         int max=arr[0];
         int min=arr[0];
